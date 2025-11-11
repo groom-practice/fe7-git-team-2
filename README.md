@@ -8,7 +8,7 @@ Github 사용할 때 브랜치 따는 거랑 커밋, 푸시, 풀 정도만 활�
 
 ### 이예슬
 
-[이예슬 깃허브]('https://github.com/Leemainsw')
+[이예슬 깃허브](https://github.com/Leemainsw)
 
 ### 4일간의 git 수업 간단 후기 작성
 
